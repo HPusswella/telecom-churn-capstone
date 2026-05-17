@@ -209,19 +209,19 @@ in your web browser.
 
 ### Frontend UI Before Prediction
 
-![Frontend Before Prediction](screenshots/frontend_before_prediction.png)
+![Frontend Before Prediction](screenshots/frontend_UI_before_prediction.png)
 
 ---
 
 ### Frontend UI After Successful Prediction - 01
 
-![Frontend After Prediction 1](screenshots/frontend_after_prediction_1.png)
+![Frontend After Prediction 1](screenshots/frontend_UI_after_showing_a_successful_prediction-1.png)
 
 ---
 
 ### Frontend UI After Successful Prediction - 02
 
-![Frontend After Prediction 2](screenshots/frontend_after_prediction_2.png)
+![Frontend After Prediction 2](screenshots/frontend_UI_after_showing_a_successful_prediction-2.png)
 
 ---
 
@@ -233,7 +233,7 @@ in your web browser.
 
 ### Model Accuracy
 
-![Model Accuracy](screenshots/model_accuracy.png)
+![Model Accuracy](screenshots/Model's_accuracy.png)
 
 ---
 
